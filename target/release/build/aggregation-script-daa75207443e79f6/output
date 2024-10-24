@@ -1,0 +1,8 @@
+cargo::rerun-if-changed=/usr/src/examples/aggregation/program/src
+cargo::rerun-if-changed=/usr/src/examples/aggregation/program/Cargo.toml
+cargo:rerun-if-changed=/usr/src/examples/aggregation/program/Cargo.lock
+cargo:warning=aggregation-program built at 2024-09-25 03:23:29
+cargo::rerun-if-changed=/usr/src/examples/fibonacci/program/src
+cargo::rerun-if-changed=/usr/src/examples/fibonacci/program/Cargo.toml
+cargo:rerun-if-changed=/usr/src/examples/fibonacci/program/Cargo.lock
+cargo:warning=fibonacci-program built at 2024-09-25 03:23:29

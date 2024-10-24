@@ -1,0 +1,12 @@
+/usr/src/examples/target/release/deps/libcoins_core-16306f609d44b956.rmeta: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/macros.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/enc.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/hashes.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/prelude.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/ser.rs
+
+/usr/src/examples/target/release/deps/libcoins_core-16306f609d44b956.rlib: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/macros.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/enc.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/hashes.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/prelude.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/ser.rs
+
+/usr/src/examples/target/release/deps/coins_core-16306f609d44b956.d: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/macros.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/enc.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/hashes.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/prelude.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/ser.rs
+
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/lib.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/macros.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/enc.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/hashes.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/prelude.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/ser.rs:

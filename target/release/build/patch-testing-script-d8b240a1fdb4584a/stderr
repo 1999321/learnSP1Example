@@ -1,0 +1,6 @@
+[sp1]  warning: Patch `sha2 v0.10.6 (https://github.com/sp1-patches/RustCrypto-hashes?branch=patch-sha2-v0.10.6#e5f8b7ea)` was not used in the crate graph.
+[sp1]  Check that the patched package version and available features are compatible
+[sp1]  with the dependency requirements. If the patch has a different version from
+[sp1]  what is locked in the Cargo.lock file, run `cargo update` to use the new
+[sp1]  version. This may also occur with an optional dependency that is not enabled.
+[sp1]      Finished `release` profile [optimized] target(s) in 0.07s

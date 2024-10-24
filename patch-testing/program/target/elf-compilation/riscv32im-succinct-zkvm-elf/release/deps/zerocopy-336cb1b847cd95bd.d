@@ -1,0 +1,10 @@
+/usr/src/examples/patch-testing/program/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/deps/libzerocopy-336cb1b847cd95bd.rmeta: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/byteorder.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/derive_util.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/post_monomorphization_compile_fail_tests.rs
+
+/usr/src/examples/patch-testing/program/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/deps/libzerocopy-336cb1b847cd95bd.rlib: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/byteorder.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/derive_util.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/post_monomorphization_compile_fail_tests.rs
+
+/usr/src/examples/patch-testing/program/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/deps/zerocopy-336cb1b847cd95bd.d: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/byteorder.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/derive_util.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/post_monomorphization_compile_fail_tests.rs
+
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/lib.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/byteorder.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/derive_util.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.6.6/src/post_monomorphization_compile_fail_tests.rs:

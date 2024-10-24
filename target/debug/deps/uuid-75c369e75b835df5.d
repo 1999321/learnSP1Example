@@ -1,0 +1,15 @@
+/usr/src/examples/target/debug/deps/libuuid-75c369e75b835df5.rmeta: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/mod.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/mod.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/prelude.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/adapter/mod.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/adapter/compact.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/serde_support.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/v4.rs
+
+/usr/src/examples/target/debug/deps/uuid-75c369e75b835df5.d: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/mod.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/mod.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/prelude.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/adapter/mod.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/adapter/compact.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/serde_support.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/v4.rs
+
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/lib.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/mod.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/builder/error.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/error.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/mod.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/parser/error.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/prelude.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/adapter/mod.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/adapter/compact.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/serde_support.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/uuid-0.8.2/src/v4.rs:

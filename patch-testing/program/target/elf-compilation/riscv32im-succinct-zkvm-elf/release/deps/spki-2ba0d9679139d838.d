@@ -1,0 +1,12 @@
+/usr/src/examples/patch-testing/program/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/deps/libspki-2ba0d9679139d838.rmeta: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/algorithm.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/spki.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/traits.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/../README.md
+
+/usr/src/examples/patch-testing/program/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/deps/libspki-2ba0d9679139d838.rlib: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/algorithm.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/spki.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/traits.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/../README.md
+
+/usr/src/examples/patch-testing/program/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/deps/spki-2ba0d9679139d838.d: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/algorithm.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/error.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/spki.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/traits.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/../README.md
+
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/lib.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/algorithm.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/error.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/spki.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/traits.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/spki-0.7.3/src/../README.md:

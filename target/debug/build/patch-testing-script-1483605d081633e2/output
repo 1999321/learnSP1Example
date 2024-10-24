@@ -1,0 +1,4 @@
+cargo::rerun-if-changed=/usr/src/examples/patch-testing/program/src
+cargo::rerun-if-changed=/usr/src/examples/patch-testing/program/Cargo.toml
+cargo:rerun-if-changed=/usr/src/examples/patch-testing/program/Cargo.lock
+cargo:warning=patch-testing-program built at 2024-09-24 08:52:07

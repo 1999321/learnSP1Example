@@ -1,0 +1,7 @@
+cargo:rustc-env=VERGEN_BUILD_TIMESTAMP=2024-09-20T09:44:14.536535888Z
+cargo:rustc-env=VERGEN_GIT_SHA=VERGEN_IDEMPOTENT_OUTPUT
+cargo:warning=could not find repository at '/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/sp1-sdk-2.0.0'; class=Repository (6); code=NotFound (-3)
+cargo:warning=VERGEN_GIT_SHA set to default
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-env-changed=VERGEN_IDEMPOTENT
+cargo:rerun-if-env-changed=SOURCE_DATE_EPOCH

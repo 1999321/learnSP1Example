@@ -1,0 +1,11 @@
+/usr/src/examples/target/release/deps/libserial_test-6d9e897b4b143e65.rmeta: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/code_lock.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/parallel_code_lock.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/rwlock.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/serial_code_lock.rs
+
+/usr/src/examples/target/release/deps/libserial_test-6d9e897b4b143e65.rlib: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/code_lock.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/parallel_code_lock.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/rwlock.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/serial_code_lock.rs
+
+/usr/src/examples/target/release/deps/serial_test-6d9e897b4b143e65.d: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/code_lock.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/parallel_code_lock.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/rwlock.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/serial_code_lock.rs
+
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/lib.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/code_lock.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/parallel_code_lock.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/rwlock.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/serial_test-3.1.1/src/serial_code_lock.rs:

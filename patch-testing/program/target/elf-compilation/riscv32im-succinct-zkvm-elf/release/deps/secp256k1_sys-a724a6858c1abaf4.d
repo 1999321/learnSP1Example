@@ -1,0 +1,10 @@
+/usr/src/examples/patch-testing/program/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/deps/libsecp256k1_sys-a724a6858c1abaf4.rmeta: /usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/lib.rs /usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/macros.rs /usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/types.rs /usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/recovery.rs
+
+/usr/src/examples/patch-testing/program/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/deps/libsecp256k1_sys-a724a6858c1abaf4.rlib: /usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/lib.rs /usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/macros.rs /usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/types.rs /usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/recovery.rs
+
+/usr/src/examples/patch-testing/program/target/elf-compilation/riscv32im-succinct-zkvm-elf/release/deps/secp256k1_sys-a724a6858c1abaf4.d: /usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/lib.rs /usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/macros.rs /usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/types.rs /usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/recovery.rs
+
+/usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/lib.rs:
+/usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/macros.rs:
+/usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/types.rs:
+/usr/local/cargo/git/checkouts/rust-secp256k1-bc487ad28fedec1b/1da89f3/secp256k1-sys/src/recovery.rs:
